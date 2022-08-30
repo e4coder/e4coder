@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @e4coder
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on Electron
+- 👀 I’m interested in Block chain
+- 🌱 I’m currently learning Go-lang
+- 💞️ I’m looking to collaborate on GunDB
 - 📫 How to reach me e4coder@gmail.com
 
 <!---
